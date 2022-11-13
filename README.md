@@ -4,5 +4,10 @@
 
 ## Author: Omar Darwish
 
-### pull request: https://github.com/dee-desu/Web_Scraping/pull/1
+#### How to use your library (where applicable)
+
+- pip install requests
+- pip install bs4+
+
+#### pull request: https://github.com/dee-desu/Web_Scraping/pull/1
 
